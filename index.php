@@ -1,3 +1,4 @@
+<title>Счетчик хитов</title>
 <?php
 $host = 'localhost'; // адрес сервера 
 $database = 'hits_db'; // имя базы данных
